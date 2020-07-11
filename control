@@ -1,7 +1,7 @@
 Package: com.icraze.speedtestplusplus
 Name: Ookla Speedtest++
 Depends: mobilesubstrate
-Version: 2.0
+Version: 3.0
 Architecture: iphoneos-arm
 Description: Removes Ads In Ookla Speedtest
 Maintainer: iCraze
